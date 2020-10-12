@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T20:20:36.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="X4GeCuVYq125KVsFn5B7" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T20:22:50.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="GhkhYY5wDavitxsuSuvW" version="13.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
           <mxGeometry x="350" y="550" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="aVxeGpyCtlTaci1dzdp6-41" value="numero_escalas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="620" width="100" height="50" as="geometry" />
+          <mxGeometry x="460" y="620" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aVxeGpyCtlTaci1dzdp6-42" value="numero_orden&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="620" width="90" height="50" as="geometry" />
@@ -232,7 +232,7 @@
             <mxPoint x="420" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aVxeGpyCtlTaci1dzdp6-51" value="" style="endArrow=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVxeGpyCtlTaci1dzdp6-41" target="aVxeGpyCtlTaci1dzdp6-40">
+        <mxCell id="aVxeGpyCtlTaci1dzdp6-51" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aVxeGpyCtlTaci1dzdp6-41" target="aVxeGpyCtlTaci1dzdp6-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="530" as="sourcePoint" />
             <mxPoint x="420" y="480" as="targetPoint" />
