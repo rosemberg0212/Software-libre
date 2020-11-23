@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T23:50:33.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" version="13.10.0" etag="VbCx_5McqyW47wt6Y5d0" type="github"><diagram id="5kZWqlUqxP4rwlJBxVxl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-23T00:14:35.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="ofCRLxIUJpVET5QfSK-m" version="13.10.0" type="github">
+  <diagram id="5kZWqlUqxP4rwlJBxVxl" name="Page-1">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-16" value="&lt;span&gt;AEROPUERTOS&lt;/span&gt;" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1160" width="700" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-16">
+          <mxGeometry y="30" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-39" value="&lt;span style=&quot;font-weight: 700&quot;&gt;código&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-17">
+          <mxGeometry width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-18" value="&lt;span style=&quot;font-weight: 700&quot;&gt;nombre&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-17">
+          <mxGeometry x="89" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-19" value="&lt;span style=&quot;font-weight: 700&quot;&gt;pais&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-17">
+          <mxGeometry x="176" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-20" value="&lt;span style=&quot;font-weight: 700&quot;&gt;ciudad&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-17">
+          <mxGeometry x="263" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-43" value="&lt;span style=&quot;font-weight: 700&quot;&gt;aterrizajes&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-17">
+          <mxGeometry x="350" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-44" value="&lt;span style=&quot;font-weight: 700&quot;&gt;despegues&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-17">
+          <mxGeometry x="439" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-45" value="&lt;span style=&quot;font-weight: 700&quot;&gt;avion_id&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-17">
+          <mxGeometry x="526" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-46" value="&lt;span style=&quot;font-weight: 700&quot;&gt;numero_vuelo&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-17">
+          <mxGeometry x="613" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-48" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="-1060" as="sourcePoint" />
+            <mxPoint x="414" y="-990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-49" value="AEROPUERTOS" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-970" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-50" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-49">
+          <mxGeometry y="30" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-51" value="codigo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-50">
+          <mxGeometry width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-52" value="nombre" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-50">
+          <mxGeometry x="70" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-53" value="pais" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-50">
+          <mxGeometry x="140" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-62" value="ciudad" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-50">
+          <mxGeometry x="210" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-63" value="aterrizajes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-50">
+          <mxGeometry x="280" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-64" value="despegues" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-50">
+          <mxGeometry x="350" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-65" value="AEROPUERTO - AVION - PROGRAMA VUELO" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-970" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-66" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-65">
+          <mxGeometry y="30" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-67" value="codigo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-66">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-68" value="avion_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-66">
+          <mxGeometry x="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap_MS4lzAT0kIJs8yCLV-69" value="numero_vuelo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Ap_MS4lzAT0kIJs8yCLV-66">
+          <mxGeometry x="180" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
